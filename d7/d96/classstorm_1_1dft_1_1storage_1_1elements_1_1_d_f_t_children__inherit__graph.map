@@ -1,0 +1,25 @@
+<map id="storm::dft::storage::elements::DFTChildren&lt; ValueType &gt;" name="storm::dft::storage::elements::DFTChildren&lt; ValueType &gt;">
+<area shape="rect" id="Node000001" title="Abstract base class for a DFT element with children." alt="" coords="232,347,409,401"/>
+<area shape="rect" id="Node000003" href="$d3/d14/classstorm_1_1dft_1_1storage_1_1elements_1_1_d_f_t_gate.html" title="Abstract base class for gates." alt="" coords="477,228,632,283"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="387,338,499,280,501,285,389,343"/>
+<area shape="rect" id="Node000010" href="$d7/da4/classstorm_1_1dft_1_1storage_1_1elements_1_1_d_f_t_restriction.html" title="Abstract base class for restrictions." alt="" coords="457,464,652,519"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="390,405,501,462,498,466,387,410"/>
+<area shape="rect" id="Node000002" href="$d6/d98/classstorm_1_1dft_1_1storage_1_1elements_1_1_d_f_t_element.html" title="Abstract base class for DFT elements." alt="" coords="5,347,184,401"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,371,232,371,232,377,198,377"/>
+<area shape="rect" id="Node000004" href="$dc/d24/classstorm_1_1dft_1_1storage_1_1elements_1_1_d_f_t_and.html" title="AND gate." alt="" coords="738,5,897,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="576,214,626,141,660,103,699,70,736,50,739,55,701,75,664,107,630,145,580,217"/>
+<area shape="rect" id="Node000005" href="$dc/dc7/classstorm_1_1dft_1_1storage_1_1elements_1_1_d_f_t_or.html" title="OR gate." alt="" coords="700,85,935,125"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="590,216,639,173,699,134,727,122,729,127,701,139,643,178,594,220"/>
+<area shape="rect" id="Node000006" href="$d2/dee/classstorm_1_1dft_1_1storage_1_1elements_1_1_d_f_t_pand.html" title="Priority AND (PAND) gate." alt="" coords="740,149,895,204"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="644,226,739,197,741,202,646,231"/>
+<area shape="rect" id="Node000007" href="$de/d3e/classstorm_1_1dft_1_1storage_1_1elements_1_1_d_f_t_por.html" title="Priority OR (POR) gate." alt="" coords="739,228,895,283"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="646,253,739,253,739,258,646,258"/>
+<area shape="rect" id="Node000008" href="$d5/d86/classstorm_1_1dft_1_1storage_1_1elements_1_1_d_f_t_spare.html" title="SPARE gate." alt="" coords="737,307,898,361"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="646,280,737,307,736,313,644,285"/>
+<area shape="rect" id="Node000009" href="$d2/d7a/classstorm_1_1dft_1_1storage_1_1elements_1_1_d_f_t_vot.html" title="VOT gate with threshold k." alt="" coords="739,385,895,440"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="595,290,643,332,701,372,740,389,738,394,699,376,640,337,591,294"/>
+<area shape="rect" id="Node000011" href="$dc/d17/classstorm_1_1dft_1_1storage_1_1elements_1_1_d_f_t_mutex.html" title="Mutex restriction (MUTEX)." alt="" coords="735,464,900,519"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="666,489,734,489,734,494,666,494"/>
+<area shape="rect" id="Node000012" href="$d0/d55/classstorm_1_1dft_1_1storage_1_1elements_1_1_d_f_t_seq.html" title="Sequence enforcer (SEQ)." alt="" coords="738,543,897,597"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="660,520,739,544,737,549,659,525"/>
+</map>

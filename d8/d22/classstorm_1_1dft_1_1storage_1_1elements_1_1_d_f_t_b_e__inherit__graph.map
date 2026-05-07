@@ -1,0 +1,19 @@
+<map id="storm::dft::storage::elements::DFTBE&lt; ValueType &gt;" name="storm::dft::storage::elements::DFTBE&lt; ValueType &gt;">
+<area shape="rect" id="Node000001" title="Abstract base class for basic events (BEs) in DFTs." alt="" coords="232,249,469,289"/>
+<area shape="rect" id="Node000003" href="$dd/de3/classstorm_1_1dft_1_1storage_1_1elements_1_1_b_e_const.html" title="BE which is either constant failed or constant failsafe." alt="" coords="537,5,691,60"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="369,235,429,154,470,109,516,69,536,57,538,62,519,73,473,113,433,157,374,238"/>
+<area shape="rect" id="Node000004" href="$d0/d52/classstorm_1_1dft_1_1storage_1_1elements_1_1_b_e_erlang.html" title="BE with Erlang failure distribution." alt="" coords="535,84,693,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="385,238,445,193,516,148,539,136,541,141,519,152,448,197,388,242"/>
+<area shape="rect" id="Node000005" href="$d8/dc6/classstorm_1_1dft_1_1storage_1_1elements_1_1_b_e_exponential.html" title="BE with exponential failure distribution." alt="" coords="517,163,711,217"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="431,242,521,215,523,220,432,247"/>
+<area shape="rect" id="Node000006" href="$d6/d7e/classstorm_1_1dft_1_1storage_1_1elements_1_1_b_e_log_normal.html" title="BE with log&#45;normal failure distribution." alt="" coords="521,241,707,296"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="483,266,521,266,521,271,483,271"/>
+<area shape="rect" id="Node000007" href="$d3/da3/classstorm_1_1dft_1_1storage_1_1elements_1_1_b_e_probability.html" title="BE with constant (Bernoulli) failure probability distribution." alt="" coords="521,320,707,375"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="432,290,523,317,521,322,431,295"/>
+<area shape="rect" id="Node000008" href="$d2/d47/classstorm_1_1dft_1_1storage_1_1elements_1_1_b_e_samples.html" title="BE where the failure distribution is defined by samples." alt="" coords="528,399,700,453"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="388,295,448,340,519,385,541,396,539,401,516,390,445,344,385,299"/>
+<area shape="rect" id="Node000009" href="$dc/d75/classstorm_1_1dft_1_1storage_1_1elements_1_1_b_e_weibull.html" title="BE with Weibull failure distribution." alt="" coords="532,477,696,532"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="374,299,433,380,473,425,519,464,537,475,534,480,516,468,470,428,429,384,369,302"/>
+<area shape="rect" id="Node000002" href="$d6/d98/classstorm_1_1dft_1_1storage_1_1elements_1_1_d_f_t_element.html" title="Abstract base class for DFT elements." alt="" coords="5,241,184,296"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,266,232,266,232,271,198,271"/>
+</map>
