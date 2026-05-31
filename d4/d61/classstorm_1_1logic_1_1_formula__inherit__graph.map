@@ -1,0 +1,73 @@
+<map id="storm::logic::Formula" name="storm::logic::Formula">
+<area shape="rect" id="Node000001" title=" " alt="" coords="228,283,388,309"/>
+<area shape="rect" id="Node000003" href="$d3/d78/classstorm_1_1logic_1_1_conditional_formula.html" title=" " alt="" coords="443,219,624,259"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="371,277,454,256,455,261,372,283"/>
+<area shape="rect" id="Node000004" href="$d7/d41/classstorm_1_1logic_1_1_path_formula.html" title=" " alt="" coords="439,283,627,309"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="402,293,439,293,439,299,402,299"/>
+<area shape="rect" id="Node000021" href="$de/db6/classstorm_1_1logic_1_1_state_formula.html" title=" " alt="" coords="436,686,631,711"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="326,320,527,685,523,687,321,322"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,276,180,316"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,293,228,293,228,299,194,299"/>
+<area shape="rect" id="Node000005" href="$d7/d1e/classstorm_1_1logic_1_1_binary_path_formula.html" title=" " alt="" coords="703,33,881,73"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="623,274,629,269,645,247,653,224,654,202,652,178,651,155,652,131,660,107,677,83,701,66,705,71,681,87,664,110,657,132,656,155,658,178,659,202,658,225,650,249,633,272,626,278"/>
+<area shape="rect" id="Node000008" href="$d9/d33/classstorm_1_1logic_1_1_bounded_until_formula.html" title=" " alt="" coords="695,97,889,137"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="622,274,629,269,641,255,648,240,652,210,657,179,664,163,677,147,694,135,697,140,680,151,668,166,662,180,657,211,653,242,646,257,632,273,625,279"/>
+<area shape="rect" id="Node000009" href="$d9/d85/classstorm_1_1logic_1_1_cumulative_reward_formula.html" title=" " alt="" coords="701,161,883,201"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="615,276,629,268,644,255,652,241,661,226,677,211,700,199,702,204,680,216,665,229,657,243,648,258,632,273,618,281"/>
+<area shape="rect" id="Node000011" href="$df/db5/classstorm_1_1logic_1_1_h_o_a_path_formula.html" title=" " alt="" coords="683,226,901,251"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="604,278,733,249,735,254,605,283"/>
+<area shape="rect" id="Node000012" href="$d8/da7/classstorm_1_1logic_1_1_instantaneous_reward_formula.html" title=" " alt="" coords="693,276,891,316"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="641,293,693,293,693,299,641,299"/>
+<area shape="rect" id="Node000013" href="$dc/df8/classstorm_1_1logic_1_1_long_run_average_reward_formula.html" title=" " alt="" coords="684,340,900,380"/>
+<area shape="poly" id="edge12_Node000004_Node000013" title=" " alt="" coords="600,309,711,337,710,343,598,315"/>
+<area shape="rect" id="Node000014" href="$d8/ded/classstorm_1_1logic_1_1_total_reward_formula.html" title=" " alt="" coords="699,404,885,444"/>
+<area shape="poly" id="edge13_Node000004_Node000014" title=" " alt="" coords="562,315,615,353,680,390,710,401,708,406,678,394,612,357,559,319"/>
+<area shape="rect" id="Node000016" href="$d2/da1/classstorm_1_1logic_1_1_unary_path_formula.html" title=" " alt="" coords="679,469,905,494"/>
+<area shape="poly" id="edge15_Node000004_Node000016" title=" " alt="" coords="552,319,603,387,639,423,680,454,708,466,706,471,677,458,635,427,599,391,547,322"/>
+<area shape="rect" id="Node000006" href="$d0/df0/classstorm_1_1logic_1_1_binary_boolean_path_formula.html" title=" " alt="" coords="961,5,1163,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="894,40,960,33,961,38,894,45"/>
+<area shape="rect" id="Node000007" href="$de/d62/classstorm_1_1logic_1_1_until_formula.html" title=" " alt="" coords="967,70,1157,95"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="895,62,967,70,966,75,894,67"/>
+<area shape="rect" id="Node000010" href="$d5/d98/classstorm_1_1logic_1_1_discounted_cumulative_reward_formula.html" title=" " alt="" coords="963,161,1161,201"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="897,179,962,179,962,184,897,184"/>
+<area shape="rect" id="Node000015" href="$d8/d26/classstorm_1_1logic_1_1_discounted_total_reward_formula.html" title=" " alt="" coords="972,340,1152,380"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="890,398,976,377,978,383,891,403"/>
+<area shape="rect" id="Node000017" href="$d1/de7/classstorm_1_1logic_1_1_eventually_formula.html" title=" " alt="" coords="974,404,1150,444"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="865,463,973,440,974,445,867,468"/>
+<area shape="rect" id="Node000018" href="$d7/d7c/classstorm_1_1logic_1_1_globally_formula.html" title=" " alt="" coords="955,469,1169,494"/>
+<area shape="poly" id="edge17_Node000016_Node000018" title=" " alt="" coords="919,479,954,479,954,484,919,484"/>
+<area shape="rect" id="Node000019" href="$d1/d7e/classstorm_1_1logic_1_1_next_formula.html" title=" " alt="" coords="967,518,1157,543"/>
+<area shape="poly" id="edge18_Node000016_Node000019" title=" " alt="" coords="876,494,992,515,991,521,875,499"/>
+<area shape="rect" id="Node000020" href="$d1/d9f/classstorm_1_1logic_1_1_unary_boolean_path_formula.html" title=" " alt="" coords="963,568,1161,608"/>
+<area shape="poly" id="edge19_Node000016_Node000020" title=" " alt="" coords="890,496,907,504,922,517,932,529,941,542,955,554,979,565,976,570,952,558,937,546,927,533,918,520,904,509,887,501"/>
+<area shape="rect" id="Node000022" href="$dc/ddd/classstorm_1_1logic_1_1_atomic_expression_formula.html" title=" " alt="" coords="680,519,904,559"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="553,674,606,621,640,593,677,568,704,556,706,561,680,573,643,597,609,625,557,677"/>
+<area shape="rect" id="Node000023" href="$da/dff/classstorm_1_1logic_1_1_atomic_label_formula.html" title=" " alt="" coords="698,583,886,623"/>
+<area shape="poly" id="edge22_Node000021_Node000023" title=" " alt="" coords="571,678,678,632,714,620,716,625,680,637,574,683"/>
+<area shape="rect" id="Node000024" href="$da/dbb/classstorm_1_1logic_1_1_binary_state_formula.html" title=" " alt="" coords="701,647,883,687"/>
+<area shape="poly" id="edge23_Node000021_Node000024" title=" " alt="" coords="644,682,700,675,701,681,645,688"/>
+<area shape="rect" id="Node000026" href="$d7/daf/classstorm_1_1logic_1_1_boolean_literal_formula.html" title=" " alt="" coords="691,711,893,751"/>
+<area shape="poly" id="edge25_Node000021_Node000026" title=" " alt="" coords="645,710,691,716,691,721,644,715"/>
+<area shape="rect" id="Node000027" href="$dd/da2/classstorm_1_1logic_1_1_multi_objective_formula.html" title=" " alt="" coords="691,775,893,815"/>
+<area shape="poly" id="edge26_Node000021_Node000027" title=" " alt="" coords="574,715,680,760,716,772,714,777,678,765,571,720"/>
+<area shape="rect" id="Node000028" href="$de/d73/classstorm_1_1logic_1_1_quantile_formula.html" title=" " alt="" coords="685,839,899,865"/>
+<area shape="poly" id="edge27_Node000021_Node000028" title=" " alt="" coords="556,720,608,773,643,801,680,824,712,837,710,842,677,829,640,805,605,777,552,724"/>
+<area shape="rect" id="Node000029" href="$db/d21/classstorm_1_1logic_1_1_unary_state_formula.html" title=" " alt="" coords="702,889,882,929"/>
+<area shape="poly" id="edge28_Node000021_Node000029" title=" " alt="" coords="550,723,572,757,601,798,638,840,680,875,703,887,700,892,677,880,634,844,597,802,567,760,546,725"/>
+<area shape="rect" id="Node000025" href="$da/d61/classstorm_1_1logic_1_1_binary_boolean_state_formula.html" title=" " alt="" coords="961,647,1163,687"/>
+<area shape="poly" id="edge24_Node000024_Node000025" title=" " alt="" coords="897,664,960,664,960,669,897,669"/>
+<area shape="rect" id="Node000030" href="$db/de3/classstorm_1_1logic_1_1_game_formula.html" title=" " alt="" coords="963,847,1161,873"/>
+<area shape="poly" id="edge29_Node000029_Node000030" title=" " alt="" coords="895,888,991,870,992,875,896,893"/>
+<area shape="rect" id="Node000031" href="$d9/d70/classstorm_1_1logic_1_1_operator_formula.html" title=" " alt="" coords="953,897,1171,922"/>
+<area shape="poly" id="edge30_Node000029_Node000031" title=" " alt="" coords="896,907,953,907,953,912,896,912"/>
+<area shape="rect" id="Node000036" href="$d8/d0f/classstorm_1_1logic_1_1_unary_boolean_state_formula.html" title=" " alt="" coords="963,947,1161,987"/>
+<area shape="poly" id="edge35_Node000029_Node000036" title=" " alt="" coords="896,929,968,944,966,949,895,934"/>
+<area shape="rect" id="Node000032" href="$df/d0a/classstorm_1_1logic_1_1_long_run_average_operator_formula.html" title=" " alt="" coords="1219,793,1435,833"/>
+<area shape="poly" id="edge31_Node000031_Node000032" title=" " alt="" coords="1153,890,1169,883,1184,874,1193,864,1203,853,1217,843,1244,831,1246,836,1220,848,1206,857,1197,867,1187,878,1172,888,1155,895"/>
+<area shape="rect" id="Node000033" href="$d2/d51/classstorm_1_1logic_1_1_probability_operator_formula.html" title=" " alt="" coords="1238,857,1415,897"/>
+<area shape="poly" id="edge32_Node000031_Node000033" title=" " alt="" coords="1180,892,1238,885,1238,891,1181,898"/>
+<area shape="rect" id="Node000034" href="$d7/db3/classstorm_1_1logic_1_1_reward_operator_formula.html" title=" " alt="" coords="1220,921,1433,961"/>
+<area shape="poly" id="edge33_Node000031_Node000034" title=" " alt="" coords="1181,921,1220,926,1219,931,1180,926"/>
+<area shape="rect" id="Node000035" href="$d6/d82/classstorm_1_1logic_1_1_time_operator_formula.html" title=" " alt="" coords="1228,985,1425,1025"/>
+<area shape="poly" id="edge34_Node000031_Node000035" title=" " alt="" coords="1151,924,1172,932,1187,942,1197,952,1206,962,1220,971,1247,983,1245,988,1217,976,1203,966,1193,956,1183,946,1169,937,1149,929"/>
+</map>
