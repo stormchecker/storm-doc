@@ -1,0 +1,247 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,595,150,639"/>
+<area shape="rect" id="Node000001" href="$d2/dad/classstorm_1_1dd_1_1_dd_manager.html" title=" " alt="" coords="212,421,378,466"/>
+<area shape="poly" id="edge22_Node000000_Node000001" title=" " alt="" coords="99,581,140,527,167,500,196,476,220,464,217,469,199,481,170,504,144,531,104,583"/>
+<area shape="rect" id="Node000002" href="$d2/dad/classstorm_1_1dd_1_1_dd_manager.html" title=" " alt="" coords="212,491,378,535"/>
+<area shape="poly" id="edge23_Node000000_Node000002" title=" " alt="" coords="124,585,197,545,227,534,224,538,199,550,129,588"/>
+<area shape="rect" id="Node000003" href="$d6/dbc/classstorm_1_1expressions_1_1_base_expression.html" title="The base class of all expression classes." alt="" coords="223,560,368,605"/>
+<area shape="poly" id="edge24_Node000000_Node000003" title=" " alt="" coords="163,601,224,592,221,596,167,605"/>
+<area shape="rect" id="Node000023" href="$d6/dee/classstorm_1_1expressions_1_1_expression_manager.html" title="This class is responsible for managing a set of typed variables and all expressions using these varia..." alt="" coords="217,629,374,674"/>
+<area shape="poly" id="edge44_Node000000_Node000023" title=" " alt="" coords="163,629,218,637,214,641,166,633"/>
+<area shape="rect" id="Node000024" href="$d4/d6a/classstorm_1_1logic_1_1_formula.html" title=" " alt="" coords="216,1024,375,1052"/>
+<area shape="poly" id="edge45_Node000000_Node000024" title=" " alt="" coords="97,650,289,1023,284,1025,98,656"/>
+<area shape="rect" id="Node000059" href="$db/d9e/classstorm_1_1models_1_1_model_base.html" title=" " alt="" coords="198,2807,393,2835"/>
+<area shape="poly" id="edge80_Node000000_Node000059" title=" " alt="" coords="85,654,295,2807,290,2807,80,656"/>
+<area shape="rect" id="Node000004" href="$de/d65/classstorm_1_1expressions_1_1_array_expression.html" title="The base class of all array expressions." alt="" coords="478,75,624,119"/>
+<area shape="poly" id="edge25_Node000003_Node000004" title=" " alt="" coords="379,558,391,546,418,503,429,462,430,422,425,381,418,340,415,297,420,250,439,200,454,175,474,153,517,117,515,122,477,157,459,178,443,202,425,251,420,297,423,339,430,381,435,421,435,462,423,505,395,549,384,560"/>
+<area shape="rect" id="Node000007" href="$de/db5/classstorm_1_1expressions_1_1_binary_expression.html" title="The base class of all binary expressions." alt="" coords="478,213,624,258"/>
+<area shape="poly" id="edge28_Node000003_Node000007" title=" " alt="" coords="379,557,391,546,412,511,420,477,419,443,414,409,408,375,407,340,416,304,439,269,457,254,480,244,477,249,459,258,443,272,421,306,413,340,414,374,419,408,425,442,426,477,417,513,395,549,384,560"/>
+<area shape="rect" id="Node000012" href="$dd/d4d/classstorm_1_1expressions_1_1_boolean_literal_expression.html" title=" " alt="" coords="454,283,648,327"/>
+<area shape="poly" id="edge33_Node000003_Node000012" title=" " alt="" coords="379,557,391,546,408,520,415,495,416,469,414,443,412,417,413,391,421,365,439,338,456,325,454,330,443,341,425,367,418,392,417,417,419,443,422,469,421,495,413,522,395,549,384,559"/>
+<area shape="rect" id="Node000013" href="$d1/dd6/classstorm_1_1expressions_1_1_function_call_expression.html" title="Represents an array with a given list of elements." alt="" coords="461,352,641,397"/>
+<area shape="poly" id="edge34_Node000003_Node000013" title=" " alt="" coords="379,556,391,546,404,529,411,512,414,478,418,443,425,425,439,407,462,392,459,397,443,411,430,427,423,444,419,478,416,513,409,532,395,550,384,559"/>
+<area shape="rect" id="Node000014" href="$d2/d2a/classstorm_1_1expressions_1_1_if_then_else_expression.html" title=" " alt="" coords="467,421,635,466"/>
+<area shape="poly" id="edge35_Node000003_Node000014" title=" " alt="" coords="379,554,391,546,407,529,414,512,423,494,439,476,468,461,465,466,443,480,427,497,419,514,411,532,395,550,384,557"/>
+<area shape="rect" id="Node000015" href="$d3/d23/classstorm_1_1expressions_1_1_integer_literal_expression.html" title=" " alt="" coords="458,491,645,535"/>
+<area shape="poly" id="edge36_Node000003_Node000015" title=" " alt="" coords="381,557,468,534,464,538,385,560"/>
+<area shape="rect" id="Node000016" href="$d8/d66/classstorm_1_1expressions_1_1_predicate_expression.html" title="The base class of all binary expressions." alt="" coords="470,560,632,605"/>
+<area shape="poly" id="edge37_Node000003_Node000016" title=" " alt="" coords="382,580,472,581,468,584,386,584"/>
+<area shape="rect" id="Node000017" href="$d5/d8f/classstorm_1_1expressions_1_1_rational_literal_expression.html" title=" " alt="" coords="454,629,649,674"/>
+<area shape="poly" id="edge38_Node000003_Node000017" title=" " alt="" coords="382,604,468,627,464,630,385,608"/>
+<area shape="rect" id="Node000018" href="$d0/d10/classstorm_1_1expressions_1_1_transcendental_number_literal_expression.html" title=" " alt="" coords="441,698,661,760"/>
+<area shape="poly" id="edge39_Node000003_Node000018" title=" " alt="" coords="380,607,395,615,411,633,420,650,428,667,443,684,460,697,455,699,439,688,423,670,415,653,407,636,391,619,383,612"/>
+<area shape="rect" id="Node000019" href="$d4/d99/classstorm_1_1expressions_1_1_unary_expression.html" title=" " alt="" coords="478,784,624,829"/>
+<area shape="poly" id="edge40_Node000003_Node000019" title=" " alt="" coords="381,605,395,615,410,635,417,655,419,695,422,733,429,751,443,770,460,783,480,793,476,796,457,787,439,774,424,754,416,734,414,695,412,656,405,638,391,619,383,610"/>
+<area shape="rect" id="Node000022" href="$d6/da1/classstorm_1_1expressions_1_1_variable_expression.html" title=" " alt="" coords="474,853,628,898"/>
+<area shape="poly" id="edge43_Node000003_Node000022" title=" " alt="" coords="380,604,395,615,414,644,422,673,422,702,419,730,416,757,417,785,424,812,443,839,458,852,476,862,472,864,455,856,439,843,420,814,411,785,411,757,414,729,417,702,417,674,409,647,391,619,382,609"/>
+<area shape="rect" id="Node000005" href="$d8/dff/classstorm_1_1expressions_1_1_constructor_array_expression.html" title="Represents an array of the given size, where the i&#39;th entry is determined by the elementExpression,..." alt="" coords="736,5,947,50"/>
+<area shape="poly" id="edge26_Node000004_Node000005" title=" " alt="" coords="637,74,747,49,743,53,641,78"/>
+<area shape="rect" id="Node000006" href="$dd/db8/classstorm_1_1expressions_1_1_value_array_expression.html" title="Represents an array with a given list of elements." alt="" coords="756,75,927,119"/>
+<area shape="poly" id="edge27_Node000004_Node000006" title=" " alt="" coords="638,95,757,95,753,99,641,99"/>
+<area shape="rect" id="Node000008" href="$d0/d7a/classstorm_1_1expressions_1_1_array_access_expression.html" title="Represents an access to an array." alt="" coords="751,144,932,189"/>
+<area shape="poly" id="edge29_Node000007_Node000008" title=" " alt="" coords="637,213,752,186,749,190,641,217"/>
+<area shape="rect" id="Node000009" href="$d3/dc8/classstorm_1_1expressions_1_1_binary_boolean_function_expression.html" title=" " alt="" coords="716,213,967,258"/>
+<area shape="poly" id="edge30_Node000007_Node000009" title=" " alt="" coords="638,234,718,234,714,237,641,238"/>
+<area shape="rect" id="Node000010" href="$d1/d94/classstorm_1_1expressions_1_1_binary_numerical_function_expression.html" title=" " alt="" coords="709,283,974,327"/>
+<area shape="poly" id="edge31_Node000007_Node000010" title=" " alt="" coords="637,254,747,281,743,284,640,259"/>
+<area shape="rect" id="Node000011" href="$d9/df9/classstorm_1_1expressions_1_1_binary_relation_expression.html" title=" " alt="" coords="743,352,940,397"/>
+<area shape="poly" id="edge32_Node000007_Node000011" title=" " alt="" coords="637,254,663,268,679,286,688,304,695,321,711,338,745,356,740,358,708,342,691,324,683,306,675,289,660,272,639,259"/>
+<area shape="rect" id="Node000020" href="$d1/db6/classstorm_1_1expressions_1_1_unary_boolean_function_expression.html" title=" " alt="" coords="718,679,965,723"/>
+<area shape="poly" id="edge41_Node000019_Node000020" title=" " alt="" coords="636,780,660,769,684,751,708,733,740,722,736,726,711,738,687,756,663,774,641,784"/>
+<area shape="rect" id="Node000021" href="$d3/da5/classstorm_1_1expressions_1_1_unary_numerical_function_expression.html" title=" " alt="" coords="711,748,972,793"/>
+<area shape="poly" id="edge42_Node000019_Node000021" title=" " alt="" coords="638,793,712,785,709,788,641,797"/>
+<area shape="rect" id="Node000025" href="$d3/d78/classstorm_1_1logic_1_1_conditional_formula.html" title=" " alt="" coords="461,987,641,1031"/>
+<area shape="poly" id="edge46_Node000024_Node000025" title=" " alt="" coords="388,1026,462,1017,459,1021,392,1029"/>
+<area shape="rect" id="Node000026" href="$d7/d41/classstorm_1_1logic_1_1_path_formula.html" title=" " alt="" coords="458,1055,645,1083"/>
+<area shape="poly" id="edge47_Node000024_Node000026" title=" " alt="" coords="389,1048,459,1056,455,1059,392,1052"/>
+<area shape="rect" id="Node000043" href="$de/db6/classstorm_1_1logic_1_1_state_formula.html" title=" " alt="" coords="454,1516,648,1544"/>
+<area shape="poly" id="edge64_Node000024_Node000043" title=" " alt="" coords="311,1063,545,1515,540,1517,311,1069"/>
+<area shape="rect" id="Node000027" href="$d7/d1e/classstorm_1_1logic_1_1_binary_path_formula.html" title=" " alt="" coords="753,817,930,862"/>
+<area shape="poly" id="edge48_Node000026_Node000027" title=" " alt="" coords="655,1046,659,1042,675,1022,682,1002,683,959,684,916,691,894,707,872,728,857,755,847,751,851,731,862,711,876,696,896,689,917,688,959,687,1003,680,1024,663,1045,660,1048"/>
+<area shape="rect" id="Node000030" href="$d9/d33/classstorm_1_1logic_1_1_bounded_until_formula.html" title=" " alt="" coords="744,887,939,931"/>
+<area shape="poly" id="edge51_Node000026_Node000030" title=" " alt="" coords="654,1046,660,1042,671,1030,677,1018,683,993,689,967,696,954,708,942,746,922,742,926,711,946,700,957,694,969,688,994,682,1020,675,1033,663,1046,659,1049"/>
+<area shape="rect" id="Node000031" href="$d9/d85/classstorm_1_1logic_1_1_cumulative_reward_formula.html" title=" " alt="" coords="751,956,932,1001"/>
+<area shape="poly" id="edge52_Node000026_Node000031" title=" " alt="" coords="641,1049,660,1041,684,1026,708,1011,752,996,748,1000,711,1015,687,1031,663,1046,645,1052"/>
+<area shape="rect" id="Node000033" href="$df/db5/classstorm_1_1logic_1_1_h_o_a_path_formula.html" title=" " alt="" coords="733,1024,950,1052"/>
+<area shape="poly" id="edge54_Node000026_Node000033" title=" " alt="" coords="659,1055,735,1048,731,1052,662,1060"/>
+<area shape="rect" id="Node000034" href="$d8/da7/classstorm_1_1logic_1_1_instantaneous_reward_formula.html" title=" " alt="" coords="742,1076,941,1121"/>
+<area shape="poly" id="edge55_Node000026_Node000034" title=" " alt="" coords="659,1078,744,1087,740,1090,662,1082"/>
+<area shape="rect" id="Node000035" href="$dc/df8/classstorm_1_1logic_1_1_long_run_average_reward_formula.html" title=" " alt="" coords="734,1145,949,1190"/>
+<area shape="poly" id="edge56_Node000026_Node000035" title=" " alt="" coords="597,1087,710,1130,750,1143,745,1146,708,1136,599,1092"/>
+<area shape="rect" id="Node000036" href="$d8/ded/classstorm_1_1logic_1_1_total_reward_formula.html" title=" " alt="" coords="748,1215,935,1259"/>
+<area shape="poly" id="edge57_Node000026_Node000036" title=" " alt="" coords="575,1092,634,1147,671,1176,711,1200,750,1217,745,1219,708,1205,668,1180,631,1151,576,1097"/>
+<area shape="rect" id="Node000038" href="$d2/da1/classstorm_1_1logic_1_1_unary_path_formula.html" title=" " alt="" coords="728,1283,955,1311"/>
+<area shape="poly" id="edge59_Node000026_Node000038" title=" " alt="" coords="565,1094,590,1135,622,1183,662,1230,711,1269,734,1282,730,1284,708,1274,658,1234,617,1186,585,1138,566,1099"/>
+<area shape="rect" id="Node000028" href="$d0/df0/classstorm_1_1logic_1_1_binary_boolean_path_formula.html" title=" " alt="" coords="1050,787,1251,831"/>
+<area shape="poly" id="edge49_Node000027_Node000028" title=" " alt="" coords="944,827,1051,817,1047,821,947,832"/>
+<area shape="rect" id="Node000029" href="$de/d62/classstorm_1_1logic_1_1_until_formula.html" title=" " alt="" coords="1055,855,1246,883"/>
+<area shape="poly" id="edge50_Node000027_Node000029" title=" " alt="" coords="944,847,1057,858,1052,861,946,852"/>
+<area shape="rect" id="Node000032" href="$d5/d98/classstorm_1_1logic_1_1_discounted_cumulative_reward_formula.html" title=" " alt="" coords="1051,956,1250,1001"/>
+<area shape="poly" id="edge53_Node000031_Node000032" title=" " alt="" coords="946,976,1053,977,1049,980,949,981"/>
+<area shape="rect" id="Node000037" href="$d8/d26/classstorm_1_1logic_1_1_discounted_total_reward_formula.html" title=" " alt="" coords="1061,1145,1240,1190"/>
+<area shape="poly" id="edge58_Node000036_Node000037" title=" " alt="" coords="948,1211,1062,1186,1058,1190,951,1215"/>
+<area shape="rect" id="Node000039" href="$d1/de7/classstorm_1_1logic_1_1_eventually_formula.html" title=" " alt="" coords="1063,1215,1238,1259"/>
+<area shape="poly" id="edge60_Node000038_Node000039" title=" " alt="" coords="931,1278,973,1269,1064,1252,1060,1256,974,1274,934,1282"/>
+<area shape="rect" id="Node000040" href="$d7/d7c/classstorm_1_1logic_1_1_globally_formula.html" title=" " alt="" coords="1044,1283,1257,1311"/>
+<area shape="poly" id="edge61_Node000038_Node000040" title=" " alt="" coords="969,1295,1046,1295,1041,1299,972,1299"/>
+<area shape="rect" id="Node000041" href="$d1/d7e/classstorm_1_1logic_1_1_next_formula.html" title=" " alt="" coords="1055,1335,1246,1363"/>
+<area shape="poly" id="edge62_Node000038_Node000041" title=" " alt="" coords="942,1312,1066,1333,1061,1336,944,1316"/>
+<area shape="rect" id="Node000042" href="$d1/d9f/classstorm_1_1logic_1_1_unary_boolean_path_formula.html" title=" " alt="" coords="1051,1387,1250,1431"/>
+<area shape="poly" id="edge63_Node000038_Node000042" title=" " alt="" coords="962,1314,975,1320,991,1333,1000,1346,1009,1360,1023,1372,1053,1387,1048,1389,1020,1377,1005,1363,996,1349,987,1336,972,1325,964,1319"/>
+<area shape="rect" id="Node000044" href="$dc/ddd/classstorm_1_1logic_1_1_atomic_expression_formula.html" title=" " alt="" coords="730,1335,953,1379"/>
+<area shape="poly" id="edge65_Node000043_Node000044" title=" " alt="" coords="572,1504,630,1446,667,1415,708,1389,737,1378,734,1382,711,1394,670,1420,633,1450,577,1506"/>
+<area shape="rect" id="Node000045" href="$da/dff/classstorm_1_1logic_1_1_atomic_label_formula.html" title=" " alt="" coords="748,1404,935,1449"/>
+<area shape="poly" id="edge66_Node000043_Node000045" title=" " alt="" coords="593,1507,708,1458,749,1447,746,1451,710,1464,597,1511"/>
+<area shape="rect" id="Node000046" href="$da/dbb/classstorm_1_1logic_1_1_binary_state_formula.html" title=" " alt="" coords="750,1473,933,1518"/>
+<area shape="poly" id="edge67_Node000043_Node000046" title=" " alt="" coords="661,1515,752,1505,748,1508,665,1519"/>
+<area shape="rect" id="Node000048" href="$d7/daf/classstorm_1_1logic_1_1_boolean_literal_formula.html" title=" " alt="" coords="741,1543,942,1587"/>
+<area shape="poly" id="edge69_Node000043_Node000048" title=" " alt="" coords="662,1541,743,1551,739,1555,665,1546"/>
+<area shape="rect" id="Node000049" href="$dd/da2/classstorm_1_1logic_1_1_multi_objective_formula.html" title=" " alt="" coords="741,1612,942,1657"/>
+<area shape="poly" id="edge70_Node000043_Node000049" title=" " alt="" coords="594,1549,710,1597,749,1610,744,1613,708,1602,596,1554"/>
+<area shape="rect" id="Node000050" href="$de/d73/classstorm_1_1logic_1_1_quantile_formula.html" title=" " alt="" coords="734,1680,949,1708"/>
+<area shape="poly" id="edge71_Node000043_Node000050" title=" " alt="" coords="573,1553,632,1612,670,1642,711,1667,740,1679,735,1681,708,1671,667,1646,629,1616,574,1558"/>
+<area shape="rect" id="Node000051" href="$db/d21/classstorm_1_1logic_1_1_unary_state_formula.html" title=" " alt="" coords="752,1732,931,1777"/>
+<area shape="poly" id="edge72_Node000043_Node000051" title=" " alt="" coords="567,1555,593,1593,625,1637,665,1681,711,1717,754,1738,749,1740,708,1722,661,1684,621,1640,589,1596,568,1560"/>
+<area shape="rect" id="Node000047" href="$da/d61/classstorm_1_1logic_1_1_binary_boolean_state_formula.html" title=" " alt="" coords="1050,1473,1251,1518"/>
+<area shape="poly" id="edge68_Node000046_Node000047" title=" " alt="" coords="947,1493,1051,1494,1047,1497,950,1498"/>
+<area shape="rect" id="Node000052" href="$db/de3/classstorm_1_1logic_1_1_game_formula.html" title=" " alt="" coords="1051,1658,1250,1686"/>
+<area shape="poly" id="edge73_Node000051_Node000052" title=" " alt="" coords="945,1727,973,1717,1021,1696,1069,1684,1065,1688,1023,1701,975,1722,948,1731"/>
+<area shape="rect" id="Node000053" href="$d9/d70/classstorm_1_1logic_1_1_operator_formula.html" title=" " alt="" coords="1042,1710,1258,1738"/>
+<area shape="poly" id="edge74_Node000051_Node000053" title=" " alt="" coords="945,1742,1044,1733,1040,1736,949,1746"/>
+<area shape="rect" id="Node000058" href="$d8/d0f/classstorm_1_1logic_1_1_unary_boolean_state_formula.html" title=" " alt="" coords="1051,1761,1250,1806"/>
+<area shape="poly" id="edge79_Node000051_Node000058" title=" " alt="" coords="946,1762,1053,1773,1048,1776,948,1767"/>
+<area shape="rect" id="Node000054" href="$df/d0a/classstorm_1_1logic_1_1_long_run_average_operator_formula.html" title=" " alt="" coords="1346,1563,1561,1607"/>
+<area shape="poly" id="edge75_Node000053_Node000054" title=" " alt="" coords="1268,1701,1277,1695,1294,1677,1301,1658,1308,1637,1325,1618,1348,1606,1344,1610,1329,1622,1313,1640,1306,1660,1298,1680,1281,1699,1272,1705"/>
+<area shape="rect" id="Node000055" href="$d2/d51/classstorm_1_1logic_1_1_probability_operator_formula.html" title=" " alt="" coords="1366,1632,1542,1677"/>
+<area shape="poly" id="edge76_Node000053_Node000055" title=" " alt="" coords="1236,1704,1278,1694,1367,1675,1363,1678,1280,1700,1239,1708"/>
+<area shape="rect" id="Node000056" href="$d7/db3/classstorm_1_1logic_1_1_reward_operator_formula.html" title=" " alt="" coords="1348,1701,1560,1746"/>
+<area shape="poly" id="edge77_Node000053_Node000056" title=" " alt="" coords="1273,1721,1349,1722,1345,1725,1276,1726"/>
+<area shape="rect" id="Node000057" href="$d6/d82/classstorm_1_1logic_1_1_time_operator_formula.html" title=" " alt="" coords="1356,1771,1552,1815"/>
+<area shape="poly" id="edge78_Node000053_Node000057" title=" " alt="" coords="1242,1739,1280,1746,1368,1769,1363,1771,1278,1752,1244,1744"/>
+<area shape="rect" id="Node000060" href="$d2/da8/classstorm_1_1models_1_1_model.html" title=" " alt="" coords="470,2452,633,2497"/>
+<area shape="poly" id="edge81_Node000059_Node000060" title=" " alt="" coords="314,2793,534,2494,532,2499,318,2796"/>
+<area shape="rect" id="Node000074" href="$d2/da8/classstorm_1_1models_1_1_model.html" title=" " alt="" coords="470,2799,633,2843"/>
+<area shape="poly" id="edge95_Node000059_Node000074" title=" " alt="" coords="407,2819,471,2819,467,2823,410,2823"/>
+<area shape="rect" id="Node000095" href="$d2/da8/classstorm_1_1models_1_1_model.html" title=" " alt="" coords="470,3021,633,3066"/>
+<area shape="poly" id="edge116_Node000059_Node000095" title=" " alt="" coords="324,2843,526,3020,521,3022,324,2848"/>
+<area shape="rect" id="Node000098" href="$d2/da8/classstorm_1_1models_1_1_model.html" title=" " alt="" coords="470,3441,633,3486"/>
+<area shape="poly" id="edge119_Node000059_Node000098" title=" " alt="" coords="309,2847,543,3440,538,3441,306,2851"/>
+<area shape="rect" id="Node000061" href="$d0/d70/classstorm_1_1models_1_1sparse_1_1_model.html" title="Base class for all sparse models." alt="" coords="757,2304,926,2365"/>
+<area shape="poly" id="edge82_Node000060_Node000061" title=" " alt="" coords="611,2443,777,2364,774,2368,615,2447"/>
+<area shape="rect" id="Node000062" href="$d4/d90/classstorm_1_1models_1_1sparse_1_1_deterministic_model.html" title="The base class of all sparse deterministic models." alt="" coords="1028,1978,1272,2040"/>
+<area shape="poly" id="edge83_Node000061_Node000062" title=" " alt="" coords="880,2291,1121,2038,1118,2042,885,2294"/>
+<area shape="rect" id="Node000067" href="$da/d7f/classstorm_1_1models_1_1sparse_1_1_nondeterministic_model.html" title="The base class of sparse nondeterministic models." alt="" coords="1028,2304,1272,2365"/>
+<area shape="poly" id="edge88_Node000061_Node000067" title=" " alt="" coords="940,2332,1030,2333,1026,2336,942,2337"/>
+<area shape="rect" id="Node000063" href="$d6/d0c/classstorm_1_1models_1_1sparse_1_1_dtmc.html" title=" " alt="" coords="1370,1840,1537,1885"/>
+<area shape="poly" id="edge84_Node000062_Node000063" title=" " alt="" coords="1203,1967,1261,1929,1326,1895,1372,1880,1368,1883,1328,1899,1264,1934,1207,1971"/>
+<area shape="rect" id="Node000064" href="$d6/d0c/classstorm_1_1models_1_1sparse_1_1_dtmc.html" title=" " alt="" coords="1364,1909,1543,1954"/>
+<area shape="poly" id="edge85_Node000062_Node000064" title=" " alt="" coords="1286,1972,1366,1953,1362,1956,1289,1976"/>
+<area shape="rect" id="Node000065" href="$d5/dbc/classstorm_1_1models_1_1sparse_1_1_ctmc.html" title="This class represents a continuous&#45;time Markov chain." alt="" coords="1333,1978,1574,2040"/>
+<area shape="poly" id="edge86_Node000062_Node000065" title=" " alt="" coords="1287,2007,1335,2008,1330,2010,1290,2011"/>
+<area shape="rect" id="Node000066" href="$d6/d0c/classstorm_1_1models_1_1sparse_1_1_dtmc.html" title="This class represents a discrete&#45;time Markov chain." alt="" coords="1332,2064,1575,2125"/>
+<area shape="poly" id="edge87_Node000062_Node000066" title=" " alt="" coords="1276,2042,1344,2062,1339,2064,1278,2047"/>
+<area shape="rect" id="Node000068" href="$dd/d35/classstorm_1_1models_1_1sparse_1_1_mdp.html" title=" " alt="" coords="1370,2149,1537,2194"/>
+<area shape="poly" id="edge89_Node000067_Node000068" title=" " alt="" coords="1196,2292,1256,2246,1326,2204,1372,2188,1368,2192,1328,2209,1259,2250,1199,2296"/>
+<area shape="rect" id="Node000069" href="$d1/d4d/classstorm_1_1models_1_1sparse_1_1_markov_automaton.html" title="This class represents a Markov automaton." alt="" coords="1336,2218,1571,2280"/>
+<area shape="poly" id="edge90_Node000067_Node000069" title=" " alt="" coords="1275,2297,1344,2279,1339,2282,1279,2301"/>
+<area shape="rect" id="Node000070" href="$dd/d35/classstorm_1_1models_1_1sparse_1_1_mdp.html" title="This class represents a (discrete&#45;time) Markov decision process." alt="" coords="1336,2304,1571,2365"/>
+<area shape="poly" id="edge91_Node000067_Node000070" title=" " alt="" coords="1287,2332,1338,2333,1333,2336,1289,2337"/>
+<area shape="rect" id="Node000072" href="$dc/d1e/classstorm_1_1models_1_1sparse_1_1_smg.html" title="This class represents a stochastic multiplayer game." alt="" coords="1336,2389,1572,2450"/>
+<area shape="poly" id="edge93_Node000067_Node000072" title=" " alt="" coords="1276,2367,1344,2387,1339,2389,1278,2372"/>
+<area shape="rect" id="Node000073" href="$d9/dc5/classstorm_1_1models_1_1sparse_1_1_stochastic_two_player_game.html" title="This class represents a (discrete&#45;time) stochastic two&#45;player game." alt="" coords="1332,2474,1576,2536"/>
+<area shape="poly" id="edge94_Node000067_Node000073" title=" " alt="" coords="1199,2373,1260,2418,1328,2460,1354,2473,1349,2474,1326,2465,1257,2422,1200,2378"/>
+<area shape="rect" id="Node000071" href="$d2/de5/classstorm_1_1models_1_1sparse_1_1_pomdp.html" title="This class represents a partially observable Markov decision process." alt="" coords="1628,2304,1881,2365"/>
+<area shape="poly" id="edge92_Node000070_Node000071" title=" " alt="" coords="1586,2332,1631,2333,1626,2335,1588,2337"/>
+<area shape="rect" id="Node000075" href="$d0/d70/classstorm_1_1models_1_1sparse_1_1_model.html" title=" " alt="" coords="755,2628,928,2673"/>
+<area shape="poly" id="edge96_Node000074_Node000075" title=" " alt="" coords="601,2789,708,2724,802,2671,799,2675,711,2729,605,2792"/>
+<area shape="rect" id="Node000078" href="$d0/d70/classstorm_1_1models_1_1sparse_1_1_model.html" title=" " alt="" coords="720,2739,963,2818"/>
+<area shape="poly" id="edge99_Node000074_Node000078" title=" " alt="" coords="647,2805,722,2795,717,2798,650,2809"/>
+<area shape="rect" id="Node000081" href="$de/df2/classstorm_1_1models_1_1symbolic_1_1_model.html" title=" " alt="" coords="750,2864,933,2909"/>
+<area shape="poly" id="edge102_Node000074_Node000081" title=" " alt="" coords="647,2840,752,2865,747,2867,649,2845"/>
+<area shape="rect" id="Node000094" href="$de/df2/classstorm_1_1models_1_1symbolic_1_1_model.html" title="Base class for all symbolic models." alt="" coords="735,2933,948,2978"/>
+<area shape="poly" id="edge115_Node000074_Node000094" title=" " alt="" coords="594,2850,649,2886,710,2919,743,2932,738,2934,708,2923,646,2891,595,2855"/>
+<area shape="rect" id="Node000076" href="$da/d7f/classstorm_1_1models_1_1sparse_1_1_nondeterministic_model.html" title=" " alt="" coords="1060,2560,1241,2621"/>
+<area shape="poly" id="edge97_Node000075_Node000076" title=" " alt="" coords="941,2628,1062,2606,1057,2609,944,2633"/>
+<area shape="rect" id="Node000077" href="$dd/d35/classstorm_1_1models_1_1sparse_1_1_mdp.html" title=" " alt="" coords="1370,2560,1537,2605"/>
+<area shape="poly" id="edge98_Node000076_Node000077" title=" " alt="" coords="1256,2585,1373,2583,1368,2586,1258,2590"/>
+<area shape="rect" id="Node000079" href="$da/d7f/classstorm_1_1models_1_1sparse_1_1_nondeterministic_model.html" title=" " alt="" coords="1037,2662,1264,2758"/>
+<area shape="poly" id="edge100_Node000078_Node000079" title=" " alt="" coords="977,2746,1038,2734,1034,2737,980,2751"/>
+<area shape="rect" id="Node000080" href="$dd/d35/classstorm_1_1models_1_1sparse_1_1_mdp.html" title=" " alt="" coords="1332,2628,1575,2707"/>
+<area shape="poly" id="edge101_Node000079_Node000080" title=" " alt="" coords="1278,2690,1334,2684,1329,2686,1281,2695"/>
+<area shape="rect" id="Node000082" href="$d5/d91/classstorm_1_1models_1_1symbolic_1_1_deterministic_model.html" title=" " alt="" coords="1059,2792,1242,2853"/>
+<area shape="poly" id="edge103_Node000081_Node000082" title=" " alt="" coords="946,2862,1061,2840,1057,2843,949,2867"/>
+<area shape="rect" id="Node000085" href="$d6/d5a/classstorm_1_1models_1_1symbolic_1_1_nondeterministic_model.html" title=" " alt="" coords="1059,2877,1242,2938"/>
+<area shape="poly" id="edge106_Node000081_Node000085" title=" " alt="" coords="947,2891,1061,2900,1057,2903,949,2896"/>
+<area shape="rect" id="Node000089" href="$d5/d91/classstorm_1_1models_1_1symbolic_1_1_deterministic_model.html" title="Base class for all deterministic symbolic models." alt="" coords="1059,2962,1242,3024"/>
+<area shape="poly" id="edge110_Node000081_Node000089" title=" " alt="" coords="947,2908,975,2919,999,2933,1023,2948,1061,2965,1056,2966,1020,2953,996,2938,973,2923,948,2914"/>
+<area shape="rect" id="Node000093" href="$d6/d5a/classstorm_1_1models_1_1symbolic_1_1_nondeterministic_model.html" title="Base class for all nondeterministic symbolic models." alt="" coords="1059,3048,1242,3109"/>
+<area shape="poly" id="edge114_Node000081_Node000093" title=" " alt="" coords="946,2901,975,2919,988,2933,996,2948,1001,2977,1005,3006,1012,3020,1024,3034,1041,3047,1061,3058,1056,3059,1038,3051,1020,3038,1007,3023,1000,3008,995,2978,991,2950,984,2936,972,2923,947,2907"/>
+<area shape="rect" id="Node000083" href="$d8/d8d/classstorm_1_1models_1_1symbolic_1_1_ctmc.html" title="This class represents a continuous&#45;time Markov chain." alt="" coords="1355,2731,1552,2775"/>
+<area shape="poly" id="edge104_Node000082_Node000083" title=" " alt="" coords="1256,2796,1357,2774,1353,2777,1258,2800"/>
+<area shape="rect" id="Node000084" href="$d1/de6/classstorm_1_1models_1_1symbolic_1_1_dtmc.html" title="This class represents a discrete&#45;time Markov chain." alt="" coords="1354,2800,1553,2845"/>
+<area shape="poly" id="edge105_Node000082_Node000084" title=" " alt="" coords="1256,2820,1357,2821,1352,2823,1258,2825"/>
+<area shape="rect" id="Node000086" href="$d3/d39/classstorm_1_1models_1_1symbolic_1_1_markov_automaton.html" title="This class represents a discrete&#45;time Markov decision process." alt="" coords="1354,2869,1553,2930"/>
+<area shape="poly" id="edge107_Node000085_Node000086" title=" " alt="" coords="1256,2902,1357,2901,1352,2903,1258,2907"/>
+<area shape="rect" id="Node000087" href="$d6/d66/classstorm_1_1models_1_1symbolic_1_1_mdp.html" title="This class represents a discrete&#45;time Markov decision process." alt="" coords="1358,2955,1549,2999"/>
+<area shape="poly" id="edge108_Node000085_Node000087" title=" " alt="" coords="1256,2929,1360,2954,1355,2956,1257,2934"/>
+<area shape="rect" id="Node000088" href="$dd/d45/classstorm_1_1models_1_1symbolic_1_1_stochastic_two_player_game.html" title="This class represents a discrete&#45;time stochastic two&#45;player game." alt="" coords="1353,3024,1554,3085"/>
+<area shape="poly" id="edge109_Node000085_Node000088" title=" " alt="" coords="1256,2934,1281,2948,1297,2964,1305,2980,1314,2995,1329,3010,1355,3026,1350,3027,1325,3014,1309,2998,1301,2982,1292,2967,1277,2952,1256,2939"/>
+<area shape="rect" id="Node000090" href="$d8/d8d/classstorm_1_1models_1_1symbolic_1_1_ctmc.html" title=" " alt="" coords="1358,3109,1550,3170"/>
+<area shape="poly" id="edge111_Node000089_Node000090" title=" " alt="" coords="1256,3019,1281,3034,1297,3049,1305,3065,1314,3080,1329,3095,1360,3114,1354,3114,1325,3099,1309,3083,1301,3068,1292,3052,1277,3038,1256,3025"/>
+<area shape="rect" id="Node000091" href="$d1/de6/classstorm_1_1models_1_1symbolic_1_1_dtmc.html" title=" " alt="" coords="1346,3195,1561,3239"/>
+<area shape="poly" id="edge112_Node000089_Node000091" title=" " alt="" coords="1255,3015,1281,3034,1295,3053,1303,3072,1305,3109,1308,3146,1315,3163,1329,3180,1349,3196,1343,3196,1325,3184,1310,3166,1303,3147,1300,3110,1297,3073,1291,3055,1277,3038,1255,3021"/>
+<area shape="rect" id="Node000092" href="$d1/de6/classstorm_1_1models_1_1symbolic_1_1_dtmc.html" title=" " alt="" coords="1357,3264,1550,3325"/>
+<area shape="poly" id="edge113_Node000089_Node000092" title=" " alt="" coords="1255,3014,1281,3034,1300,3062,1308,3090,1308,3117,1306,3144,1303,3171,1304,3197,1311,3223,1329,3250,1360,3274,1354,3274,1325,3254,1306,3225,1298,3198,1298,3170,1300,3143,1303,3117,1302,3090,1295,3064,1277,3037,1255,3019"/>
+<area shape="rect" id="Node000096" href="$d0/d70/classstorm_1_1models_1_1sparse_1_1_model.html" title=" " alt="" coords="750,3018,933,3096"/>
+<area shape="poly" id="edge117_Node000095_Node000096" title=" " alt="" coords="647,3046,752,3051,747,3054,650,3051"/>
+<area shape="rect" id="Node000097" href="$d4/d90/classstorm_1_1models_1_1sparse_1_1_deterministic_model.html" title=" " alt="" coords="1032,3134,1268,3212"/>
+<area shape="poly" id="edge118_Node000096_Node000097" title=" " alt="" coords="947,3094,1046,3132,1041,3134,948,3099"/>
+<area shape="rect" id="Node000099" href="$d0/d70/classstorm_1_1models_1_1sparse_1_1_model.html" title=" " alt="" coords="727,3185,956,3246"/>
+<area shape="poly" id="edge120_Node000098_Node000099" title=" " alt="" coords="569,3426,592,3387,624,3341,662,3296,708,3256,730,3245,726,3249,711,3260,666,3299,628,3345,596,3390,573,3429"/>
+<area shape="rect" id="Node000100" href="$d0/d70/classstorm_1_1models_1_1sparse_1_1_model.html" title=" " alt="" coords="731,3270,952,3332"/>
+<area shape="poly" id="edge121_Node000098_Node000100" title=" " alt="" coords="586,3429,641,3384,708,3341,736,3331,731,3334,711,3346,645,3388,590,3433"/>
+<area shape="rect" id="Node000104" href="$d0/d70/classstorm_1_1models_1_1sparse_1_1_model.html" title=" " alt="" coords="758,3356,925,3401"/>
+<area shape="poly" id="edge125_Node000098_Node000104" title=" " alt="" coords="631,3434,709,3409,760,3397,756,3400,710,3414,634,3438"/>
+<area shape="rect" id="Node000105" href="$d0/d70/classstorm_1_1models_1_1sparse_1_1_model.html" title=" " alt="" coords="720,3424,963,3503"/>
+<area shape="poly" id="edge126_Node000098_Node000105" title=" " alt="" coords="647,3461,722,3463,717,3465,649,3466"/>
+<area shape="rect" id="Node000107" href="$de/df2/classstorm_1_1models_1_1symbolic_1_1_model.html" title=" " alt="" coords="734,3528,949,3589"/>
+<area shape="poly" id="edge128_Node000098_Node000107" title=" " alt="" coords="636,3489,747,3526,742,3528,637,3494"/>
+<area shape="rect" id="Node000108" href="$de/df2/classstorm_1_1models_1_1symbolic_1_1_model.html" title=" " alt="" coords="743,3613,940,3674"/>
+<area shape="poly" id="edge129_Node000098_Node000108" title=" " alt="" coords="583,3495,641,3548,675,3575,711,3599,745,3616,740,3617,708,3603,672,3580,637,3552,583,3500"/>
+<area shape="rect" id="Node000109" href="$de/df2/classstorm_1_1models_1_1symbolic_1_1_model.html" title=" " alt="" coords="731,3699,952,3743"/>
+<area shape="poly" id="edge130_Node000098_Node000109" title=" " alt="" coords="569,3498,593,3542,624,3592,663,3642,711,3684,733,3698,728,3698,708,3689,660,3646,620,3595,588,3545,568,3503"/>
+<area shape="rect" id="Node000110" href="$de/df2/classstorm_1_1models_1_1symbolic_1_1_model.html" title=" " alt="" coords="740,3768,943,3813"/>
+<area shape="poly" id="edge131_Node000098_Node000110" title=" " alt="" coords="563,3498,583,3557,613,3625,655,3695,681,3726,711,3754,742,3773,737,3773,708,3758,677,3730,651,3698,608,3628,578,3558,561,3503"/>
+<area shape="rect" id="Node000101" href="$d4/d90/classstorm_1_1models_1_1sparse_1_1_deterministic_model.html" title=" " alt="" coords="1022,3236,1279,3315"/>
+<area shape="poly" id="edge122_Node000100_Node000101" title=" " alt="" coords="966,3288,1024,3285,1019,3287,968,3293"/>
+<area shape="rect" id="Node000102" href="$da/d7f/classstorm_1_1models_1_1sparse_1_1_nondeterministic_model.html" title=" " alt="" coords="1022,3339,1279,3418"/>
+<area shape="poly" id="edge123_Node000100_Node000102" title=" " alt="" coords="967,3330,1024,3345,1019,3347,968,3335"/>
+<area shape="rect" id="Node000103" href="$dd/d35/classstorm_1_1models_1_1sparse_1_1_mdp.html" title=" " alt="" coords="1327,3349,1580,3410"/>
+<area shape="poly" id="edge124_Node000102_Node000103" title=" " alt="" coords="1294,3376,1329,3378,1324,3380,1296,3382"/>
+<area shape="rect" id="Node000106" href="$da/d7f/classstorm_1_1models_1_1sparse_1_1_nondeterministic_model.html" title=" " alt="" coords="1037,3441,1264,3537"/>
+<area shape="poly" id="edge127_Node000105_Node000106" title=" " alt="" coords="978,3472,1039,3479,1033,3480,979,3478"/>
+<area shape="rect" id="Node000111" href="$d5/d91/classstorm_1_1models_1_1symbolic_1_1_deterministic_model.html" title=" " alt="" coords="1052,3589,1249,3650"/>
+<area shape="poly" id="edge132_Node000110_Node000111" title=" " alt="" coords="956,3764,972,3754,989,3732,995,3709,1002,3684,1020,3660,1049,3645,1054,3642,1023,3664,1007,3687,1001,3710,994,3734,975,3758,958,3769"/>
+<area shape="rect" id="Node000112" href="$d6/d5a/classstorm_1_1models_1_1symbolic_1_1_nondeterministic_model.html" title=" " alt="" coords="1043,3674,1258,3736"/>
+<area shape="poly" id="edge133_Node000110_Node000112" title=" " alt="" coords="944,3761,973,3753,1045,3735,1039,3737,974,3758,946,3766"/>
+<area shape="rect" id="Node000113" href="$d6/d5a/classstorm_1_1models_1_1symbolic_1_1_nondeterministic_model.html" title=" " alt="" coords="1052,3760,1249,3821"/>
+<area shape="poly" id="edge134_Node000110_Node000113" title=" " alt="" coords="958,3788,1054,3790,1049,3791,959,3793"/>
+<area shape="rect" id="Node000114" href="$d6/d5a/classstorm_1_1models_1_1symbolic_1_1_nondeterministic_model.html" title=" " alt="" coords="1059,3845,1242,3906"/>
+<area shape="poly" id="edge135_Node000110_Node000114" title=" " alt="" coords="940,3815,1062,3850,1056,3851,940,3820"/>
+<area shape="rect" id="Node000122" href="$d6/d5a/classstorm_1_1models_1_1symbolic_1_1_nondeterministic_model.html" title=" " alt="" coords="1059,3930,1242,3992"/>
+<area shape="poly" id="edge143_Node000110_Node000122" title=" " alt="" coords="881,3820,946,3869,1023,3916,1061,3935,1056,3934,1020,3921,943,3873,880,3825"/>
+<area shape="rect" id="Node000115" href="$d3/d39/classstorm_1_1models_1_1symbolic_1_1_markov_automaton.html" title=" " alt="" coords="1346,3644,1561,3705"/>
+<area shape="poly" id="edge136_Node000114_Node000115" title=" " alt="" coords="1255,3847,1277,3831,1289,3817,1295,3803,1300,3775,1306,3745,1313,3730,1325,3715,1344,3704,1348,3702,1329,3719,1317,3733,1311,3747,1306,3775,1301,3805,1293,3820,1281,3835,1257,3852"/>
+<area shape="rect" id="Node000116" href="$d3/d39/classstorm_1_1models_1_1symbolic_1_1_markov_automaton.html" title=" " alt="" coords="1344,3729,1564,3790"/>
+<area shape="poly" id="edge137_Node000114_Node000116" title=" " alt="" coords="1255,3840,1278,3831,1302,3815,1326,3800,1350,3792,1355,3790,1328,3805,1304,3820,1280,3835,1257,3845"/>
+<area shape="rect" id="Node000117" href="$d6/d66/classstorm_1_1models_1_1symbolic_1_1_mdp.html" title=" " alt="" coords="1350,3815,1557,3859"/>
+<area shape="poly" id="edge138_Node000114_Node000117" title=" " alt="" coords="1256,3860,1352,3850,1347,3851,1257,3865"/>
+<area shape="rect" id="Node000118" href="$d6/d66/classstorm_1_1models_1_1symbolic_1_1_mdp.html" title=" " alt="" coords="1360,3884,1547,3945"/>
+<area shape="poly" id="edge139_Node000114_Node000118" title=" " alt="" coords="1257,3887,1363,3902,1357,3903,1257,3892"/>
+<area shape="rect" id="Node000119" href="$dd/d45/classstorm_1_1models_1_1symbolic_1_1_stochastic_two_player_game.html" title=" " alt="" coords="1355,3969,1552,4030"/>
+<area shape="poly" id="edge140_Node000114_Node000119" title=" " alt="" coords="1256,3904,1280,3916,1305,3936,1328,3955,1357,3971,1352,3970,1326,3959,1301,3940,1278,3921,1255,3910"/>
+<area shape="rect" id="Node000120" href="$dd/d45/classstorm_1_1models_1_1symbolic_1_1_stochastic_two_player_game.html" title=" " alt="" coords="1353,4054,1554,4116"/>
+<area shape="poly" id="edge141_Node000114_Node000120" title=" " alt="" coords="1255,3898,1281,3916,1294,3932,1301,3948,1306,3980,1310,4011,1317,4026,1329,4040,1355,4061,1350,4060,1325,4044,1312,4028,1305,4012,1300,3981,1296,3950,1289,3935,1277,3920,1254,3904"/>
+<area shape="rect" id="Node000121" href="$dc/d96/classstorm_1_1gbar_1_1abstraction_1_1_menu_game.html" title="This class represents a discrete&#45;time stochastic two&#45;player game." alt="" coords="1635,4063,1874,4107"/>
+<area shape="poly" id="edge142_Node000120_Node000121" title=" " alt="" coords="1570,4082,1638,4085,1632,4085,1570,4088"/>
+</map>
