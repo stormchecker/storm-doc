@@ -1,0 +1,5 @@
+var classstorm_1_1dd_1_1bisimulation_1_1_internal_representative_computer_3_01storm_1_1dd_1_1_dd_type_1_1_sylvan_01_4 =
+[
+    [ "InternalRepresentativeComputer", "d5/d01/classstorm_1_1dd_1_1bisimulation_1_1_internal_representative_computer_3_01storm_1_1dd_1_1_dd_type_1_1_sylvan_01_4.html#af5632a6b9e257f9a9d43c72f584b69b4", null ],
+    [ "getRepresentatives", "d5/d01/classstorm_1_1dd_1_1bisimulation_1_1_internal_representative_computer_3_01storm_1_1dd_1_1_dd_type_1_1_sylvan_01_4.html#a006356abc9d1915ba0f7f2d18a81c6cf", null ]
+];
