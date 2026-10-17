@@ -1,0 +1,35 @@
+var classstorm_1_1storage_1_1geometry_1_1_native_polytope =
+[
+    [ "EigenMatrix", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a22f714898144476503dd7ef50aabbdab", null ],
+    [ "EigenVector", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a937b81c40cf7bf38f521d9561028805d", null ],
+    [ "Point", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a7f59b77880b2989365a6f08b317ddd27", null ],
+    [ "EmptyStatus", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a2b8eebc70844c032b4fc75a088f3c12f", [
+      [ "Unknown", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a2b8eebc70844c032b4fc75a088f3c12fa88183b946cc5f0e8c96b2e66e1c74a7e", null ],
+      [ "Empty", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a2b8eebc70844c032b4fc75a088f3c12face2c8aed9c2fa0cfbed56cbda4d8bf07", null ],
+      [ "Nonempty", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a2b8eebc70844c032b4fc75a088f3c12faaffe9a8cbf3da2c03c464d57fd88c8de", null ]
+    ] ],
+    [ "NativePolytope", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a21679ddbaf844b1a1e77dbea05ba6bde", null ],
+    [ "NativePolytope", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#ac86a5449bc691dd82a2d3a1e811fc61a", null ],
+    [ "NativePolytope", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a6e9900e2228e9492da575979bbfc1641", null ],
+    [ "NativePolytope", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#af5076efd478048f67f1420ebdb66638d", null ],
+    [ "NativePolytope", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a3be896d3dae7eb29b48bfe33e858501e", null ],
+    [ "NativePolytope", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a5aa3d5bbe8c2283d3b3813a001a49f9d", null ],
+    [ "~NativePolytope", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#ad1b76193d09c56f0fde9acfa0d23ee8e", null ],
+    [ "affineTransformation", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a4c3f6d8d283779c1e80d83d6d8bbdf21", null ],
+    [ "clean", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a46a0dc01e487bf02b673bd0cc83c783b", null ],
+    [ "contains", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a1cfba789b5bfb88e551b51fb8e0e6fa5", null ],
+    [ "contains", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a1ca9b4d063c874cfd2ef27a9e4bf7895", null ],
+    [ "convexUnion", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#adea5aefbfc3f154370b55e7212eb1676", null ],
+    [ "create", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#aa9212a61997b1b1e5eab4da5c1199c52", null ],
+    [ "declareVariables", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a2dc34c8c1b7ad785453d1fee654af3e7", null ],
+    [ "getConstraints", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#abd5752911bd8fb61348e63a00cb024d1", null ],
+    [ "getHalfspaces", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#ad720e3556a2b192b1e631adedc69593b", null ],
+    [ "getVertices", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a872611a66a706e7e633a14fce2e75081", null ],
+    [ "intersection", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#aeb3fb0a70c2c174106b11bcfb4a629ee", null ],
+    [ "intersection", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a9b69bf331352b4b40cfee89176c26758", null ],
+    [ "isEmpty", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#ab80c1550fb4bfdca0508225f5df8e4c5", null ],
+    [ "isNativePolytope", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a53ed28ffa9466651754042d94b1ad482", null ],
+    [ "isUniversal", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a97d79b3895523f03a313b9dd561df08a", null ],
+    [ "minkowskiSum", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#aa8a80607f4708b807d523ce5165942f7", null ],
+    [ "optimize", "db/d7c/classstorm_1_1storage_1_1geometry_1_1_native_polytope.html#a2f32808bf06ab88740091cd351b34d9c", null ]
+];
