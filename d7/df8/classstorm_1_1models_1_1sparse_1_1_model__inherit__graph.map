@@ -1,0 +1,35 @@
+<map id="storm::models::sparse::Model&lt; CValueType, CRewardModelType &gt;" name="storm::models::sparse::Model&lt; CValueType, CRewardModelType &gt;">
+<area shape="rect" id="Node000001" title="Base class for all sparse models." alt="" coords="700,324,869,385"/>
+<area shape="rect" id="Node000005" href="$d4/d90/classstorm_1_1models_1_1sparse_1_1_deterministic_model.html" title="The base class of all sparse deterministic models." alt="" coords="917,144,1161,205"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="841,312,992,207,996,204,844,316"/>
+<area shape="rect" id="Node000010" href="$da/d7f/classstorm_1_1models_1_1sparse_1_1_nondeterministic_model.html" title="The base class of sparse nondeterministic models." alt="" coords="917,504,1161,565"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="843,392,996,503,991,503,842,397"/>
+<area shape="rect" id="Node000002" href="$d2/da8/classstorm_1_1models_1_1_model.html" title=" " alt="" coords="489,332,652,377"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="667,352,702,353,697,355,668,357"/>
+<area shape="rect" id="Node000003" href="$db/d9e/classstorm_1_1models_1_1_model_base.html" title=" " alt="" coords="246,340,441,368"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,352,491,353,486,355,457,357"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,332,198,377"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,352,247,353,243,356,214,357"/>
+<area shape="rect" id="Node000006" href="$d6/d0c/classstorm_1_1models_1_1sparse_1_1_dtmc.html" title=" " alt="" coords="1268,5,1435,50"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1090,132,1145,94,1208,60,1270,42,1266,44,1210,65,1148,98,1093,136"/>
+<area shape="rect" id="Node000007" href="$d6/d0c/classstorm_1_1models_1_1sparse_1_1_dtmc.html" title=" " alt="" coords="1262,75,1441,119"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1175,137,1208,129,1264,118,1259,120,1210,134,1177,142"/>
+<area shape="rect" id="Node000008" href="$d5/dbc/classstorm_1_1models_1_1sparse_1_1_ctmc.html" title="This class represents a continuous&#45;time Markov chain." alt="" coords="1231,144,1472,205"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="1176,172,1233,174,1228,175,1177,177"/>
+<area shape="rect" id="Node000009" href="$d6/d0c/classstorm_1_1models_1_1sparse_1_1_dtmc.html" title="This class represents a discrete&#45;time Markov chain." alt="" coords="1230,229,1473,290"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="1169,207,1239,228,1233,229,1169,212"/>
+<area shape="rect" id="Node000011" href="$dd/d35/classstorm_1_1models_1_1sparse_1_1_mdp.html" title=" " alt="" coords="1209,314,1494,410"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1094,492,1148,456,1208,420,1229,412,1234,410,1210,425,1151,460,1096,497"/>
+<area shape="rect" id="Node000012" href="$dd/d35/classstorm_1_1models_1_1sparse_1_1_mdp.html" title=" " alt="" coords="1268,435,1435,479"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="1175,497,1208,489,1271,476,1266,478,1210,494,1177,502"/>
+<area shape="rect" id="Node000013" href="$d1/d4d/classstorm_1_1models_1_1sparse_1_1_markov_automaton.html" title="This class represents a Markov automaton." alt="" coords="1234,504,1469,565"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="1176,532,1237,534,1232,535,1177,537"/>
+<area shape="rect" id="Node000014" href="$dd/d35/classstorm_1_1models_1_1sparse_1_1_mdp.html" title="This class represents a (discrete&#45;time) Markov decision process." alt="" coords="1234,589,1469,650"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="1169,567,1239,588,1233,588,1169,572"/>
+<area shape="rect" id="Node000016" href="$dc/d1e/classstorm_1_1models_1_1sparse_1_1_smg.html" title="This class represents a stochastic multiplayer game." alt="" coords="1234,674,1470,736"/>
+<area shape="poly" id="edge15_Node000010_Node000016" title=" " alt="" coords="1086,573,1144,619,1210,660,1237,674,1231,673,1208,665,1141,623,1085,578"/>
+<area shape="rect" id="Node000017" href="$d9/dc5/classstorm_1_1models_1_1sparse_1_1_stochastic_two_player_game.html" title="This class represents a (discrete&#45;time) stochastic two&#45;player game." alt="" coords="1230,760,1474,821"/>
+<area shape="poly" id="edge16_Node000010_Node000017" title=" " alt="" coords="1065,576,1092,618,1125,663,1165,708,1211,745,1231,760,1226,759,1207,750,1161,711,1121,666,1087,621,1063,581"/>
+<area shape="rect" id="Node000015" href="$d2/de5/classstorm_1_1models_1_1sparse_1_1_pomdp.html" title="This class represents a partially observable Markov decision process." alt="" coords="1542,589,1795,650"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1485,617,1545,619,1540,620,1485,622"/>
+</map>
