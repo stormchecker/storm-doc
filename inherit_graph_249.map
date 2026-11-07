@@ -1,0 +1,69 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d9/db4/classstorm_1_1expressions_1_1_expression_visitor.html" title=" " alt="" coords="16,952,161,997"/>
+<area shape="rect" id="Node000001" href="$df/d05/classstorm_1_1expressions_1_1_to_rational_function_visitor.html" title=" " alt="" coords="246,400,440,479"/>
+<area shape="poly" id="edge241_Node000000_Node000001" title=" " alt="" coords="87,936,91,848,98,791,109,730,126,666,149,603,179,544,218,490,247,468,244,473,222,493,183,547,153,606,131,668,114,731,103,792,97,848,92,937"/>
+<area shape="rect" id="Node000002" href="$da/df4/classstorm_1_1expressions_1_1_to_rational_number_visitor.html" title=" " alt="" coords="247,504,438,565"/>
+<area shape="poly" id="edge242_Node000000_Node000002" title=" " alt="" coords="89,936,97,861,118,765,134,714,156,664,184,617,218,575,248,555,246,559,221,579,188,620,161,666,139,716,123,766,102,862,94,937"/>
+<area shape="rect" id="Node000003" href="$d9/d3b/classstorm_1_1adapters_1_1_add_expression_adapter.html" title=" " alt="" coords="229,675,457,719"/>
+<area shape="poly" id="edge243_Node000000_Node000003" title=" " alt="" coords="97,936,113,889,138,833,173,777,194,752,218,730,240,717,237,722,221,734,198,756,177,781,143,836,118,891,102,937"/>
+<area shape="rect" id="Node000004" href="$dc/d62/classstorm_1_1expressions_1_1_change_manager_visitor.html" title=" " alt="" coords="254,744,432,789"/>
+<area shape="poly" id="edge244_Node000000_Node000004" title=" " alt="" coords="105,937,150,866,182,830,218,799,255,782,252,786,221,803,185,834,155,870,110,939"/>
+<area shape="rect" id="Node000005" href="$d8/d7a/classstorm_1_1expressions_1_1_check_if_then_else_guard_visitor.html" title=" " alt="" coords="234,813,452,858"/>
+<area shape="poly" id="edge245_Node000000_Node000005" title=" " alt="" coords="121,940,166,902,218,868,249,856,245,861,221,873,169,906,125,943"/>
+<area shape="rect" id="Node000006" href="$dc/d76/classstorm_1_1expressions_1_1_full_predicate_splitter.html" title=" " alt="" coords="263,883,423,927"/>
+<area shape="poly" id="edge246_Node000000_Node000006" title=" " alt="" coords="174,949,264,925,260,929,178,952"/>
+<area shape="rect" id="Node000007" href="$d2/d83/classstorm_1_1expressions_1_1_hash_visitor.html" title="Computes a hash of an expression such that syntactically equal expressions hash to the same value." alt="" coords="270,952,416,997"/>
+<area shape="poly" id="edge247_Node000000_Node000007" title=" " alt="" coords="175,972,272,973,268,976,178,976"/>
+<area shape="rect" id="Node000008" href="$d0/df2/classstorm_1_1expressions_1_1_linear_coefficient_visitor.html" title="Computes the coefficients of a linear expression." alt="" coords="252,1021,434,1082"/>
+<area shape="poly" id="edge248_Node000000_Node000008" title=" " alt="" coords="175,998,254,1023,249,1026,177,1003"/>
+<area shape="rect" id="Node000009" href="$de/d80/classstorm_1_1expressions_1_1_linearity_check_visitor.html" title=" " alt="" coords="259,1107,427,1151"/>
+<area shape="poly" id="edge249_Node000000_Node000009" title=" " alt="" coords="118,1006,165,1051,192,1073,221,1092,260,1110,256,1112,218,1097,189,1077,162,1055,119,1011"/>
+<area shape="rect" id="Node000010" href="$d7/d8d/classstorm_1_1expressions_1_1_reduce_nesting_visitor.html" title=" " alt="" coords="258,1400,428,1445"/>
+<area shape="poly" id="edge250_Node000000_Node000010" title=" " alt="" coords="90,1009,100,1090,119,1190,135,1243,157,1295,186,1343,221,1386,239,1399,260,1409,255,1411,236,1403,218,1390,181,1347,152,1298,130,1245,114,1192,94,1090,90,1015"/>
+<area shape="rect" id="Node000023" href="$d2/d2c/classstorm_1_1expressions_1_1_restrict_syntax_visitor.html" title=" " alt="" coords="260,1176,426,1221"/>
+<area shape="poly" id="edge252_Node000000_Node000023" title=" " alt="" coords="105,1008,126,1046,152,1087,183,1127,221,1161,262,1182,257,1185,218,1166,179,1131,147,1090,122,1048,106,1013"/>
+<area shape="rect" id="Node000014" href="$d0/dca/classstorm_1_1expressions_1_1_substitution_visitor.html" title=" " alt="" coords="268,589,418,650"/>
+<area shape="poly" id="edge253_Node000000_Node000014" title=" " alt="" coords="93,936,106,876,129,803,166,727,190,692,218,660,241,644,269,632,266,637,244,648,221,664,194,695,170,729,134,805,111,878,98,937"/>
+<area shape="rect" id="Node000016" href="$d2/d5b/classstorm_1_1expressions_1_1_syntactical_equality_check_visitor.html" title=" " alt="" coords="246,1314,440,1376"/>
+<area shape="poly" id="edge255_Node000000_Node000016" title=" " alt="" coords="94,1009,109,1074,132,1151,148,1192,168,1231,193,1268,221,1300,248,1319,243,1321,218,1304,188,1271,164,1234,143,1194,127,1153,104,1075,95,1015"/>
+<area shape="rect" id="Node000024" href="$d2/d52/classstorm_1_1expressions_1_1_to_dice_string_visitor.html" title=" " alt="" coords="267,1245,419,1290"/>
+<area shape="poly" id="edge257_Node000000_Node000024" title=" " alt="" coords="98,1009,116,1061,141,1121,175,1180,197,1207,221,1231,243,1245,269,1256,264,1258,241,1249,218,1235,193,1211,171,1183,136,1123,111,1063,99,1015"/>
+<area shape="rect" id="Node000025" href="$db/d16/classstorm_1_1expressions_1_1_to_exprtk_string_visitor.html" title=" " alt="" coords="260,5,426,50"/>
+<area shape="poly" id="edge258_Node000000_Node000025" title=" " alt="" coords="87,936,92,753,98,626,109,491,125,356,148,233,162,178,178,131,197,91,218,61,237,45,261,35,258,39,239,49,222,64,201,94,183,133,167,180,153,234,130,357,114,491,103,627,97,753,93,936"/>
+<area shape="rect" id="Node000026" href="$df/d05/classstorm_1_1expressions_1_1_to_rational_function_visitor.html" title=" " alt="" coords="246,74,440,136"/>
+<area shape="poly" id="edge259_Node000000_Node000026" title=" " alt="" coords="88,936,96,769,116,533,133,412,154,301,182,210,199,174,218,146,246,125,244,129,222,149,204,176,187,212,160,303,138,413,121,534,101,769,93,936"/>
+<area shape="rect" id="Node000027" href="$da/df4/classstorm_1_1expressions_1_1_to_rational_number_visitor.html" title=" " alt="" coords="247,160,438,221"/>
+<area shape="poly" id="edge260_Node000000_Node000027" title=" " alt="" coords="89,936,99,784,121,574,138,467,159,369,186,288,201,256,218,231,248,209,246,214,222,235,205,259,191,290,164,370,143,468,126,575,104,785,94,936"/>
+<area shape="rect" id="Node000028" href="$db/d63/classstorm_1_1expressions_1_1_variable_set_predicate_splitter.html" title=" " alt="" coords="237,245,448,290"/>
+<area shape="poly" id="edge261_Node000000_Node000028" title=" " alt="" coords="89,936,101,796,124,606,141,510,162,422,187,350,202,322,218,300,238,286,236,291,222,304,206,325,192,352,167,424,146,511,129,607,106,797,95,937"/>
+<area shape="rect" id="Node000029" href="$d4/dca/classstorm_1_1gbar_1_1abstraction_1_1_expression_translator.html" title=" " alt="" coords="254,314,432,376"/>
+<area shape="poly" id="edge262_Node000000_Node000029" title=" " alt="" coords="91,937,105,813,131,649,148,567,168,491,191,429,218,386,234,372,255,361,252,366,237,376,222,389,196,432,173,493,153,568,136,650,110,814,96,937"/>
+<area shape="rect" id="Node000017" href="$df/df5/classstorm_1_1jani_1_1_expression_to_json.html" title=" " alt="" coords="237,1811,448,1839"/>
+<area shape="poly" id="edge263_Node000000_Node000017" title=" " alt="" coords="90,1010,99,1180,118,1416,134,1537,156,1647,185,1736,203,1771,222,1796,240,1811,234,1812,218,1800,198,1773,180,1738,151,1648,129,1538,112,1417,94,1181,90,1015"/>
+<area shape="rect" id="Node000018" href="$d9/dbb/classstorm_1_1jani_1_1detail_1_1_array_expression_elimination_visitor.html" title="Eliminates the array accesses in the given expression, for example ([[1],[2,3]])[i][j] &#45;&#45;&gt; i=0 ?..." alt="" coords="238,1864,448,1925"/>
+<area shape="poly" id="edge264_Node000000_Node000018" title=" " alt="" coords="91,1010,99,1188,119,1438,135,1567,157,1685,186,1782,203,1820,222,1849,240,1866,235,1867,218,1852,198,1822,181,1784,152,1686,130,1568,113,1439,94,1188,90,1015"/>
+<area shape="rect" id="Node000019" href="$dc/dd4/classstorm_1_1jani_1_1detail_1_1_array_expression_finder_expression_visitor.html" title=" " alt="" coords="220,1469,466,1530"/>
+<area shape="poly" id="edge265_Node000000_Node000019" title=" " alt="" coords="89,1009,95,1101,101,1158,112,1219,128,1282,151,1345,182,1403,222,1455,235,1467,230,1469,218,1459,177,1406,146,1347,123,1284,107,1220,96,1159,90,1101,89,1015"/>
+<area shape="rect" id="Node000020" href="$d9/d3f/classstorm_1_1jani_1_1detail_1_1_array_replacements_collector_expression_visitor.html" title=" " alt="" coords="235,1554,450,1616"/>
+<area shape="poly" id="edge266_Node000000_Node000020" title=" " alt="" coords="94,1010,111,1132,137,1290,154,1369,174,1441,197,1500,222,1541,237,1555,232,1556,218,1544,192,1503,169,1443,149,1370,132,1291,106,1133,94,1015"/>
+<area shape="rect" id="Node000021" href="$d7/def/classstorm_1_1jani_1_1detail_1_1_function_call_expression_finder_expression_visitor.html" title=" " alt="" coords="233,1640,453,1701"/>
+<area shape="poly" id="edge267_Node000000_Node000021" title=" " alt="" coords="93,1010,108,1148,132,1331,149,1424,169,1509,194,1578,207,1605,222,1626,235,1639,230,1640,218,1629,203,1608,189,1580,164,1510,144,1425,126,1332,102,1148,92,1015"/>
+<area shape="rect" id="Node000022" href="$db/da4/classstorm_1_1jani_1_1detail_1_1_function_elimination_expression_visitor.html" title=" " alt="" coords="228,1725,458,1786"/>
+<area shape="poly" id="edge268_Node000000_Node000022" title=" " alt="" coords="92,1010,104,1163,126,1373,143,1479,165,1576,191,1656,206,1688,222,1711,234,1724,229,1725,218,1715,201,1690,186,1658,159,1578,138,1480,121,1373,99,1164,91,1015"/>
+<area shape="rect" id="Node000011" href="$de/d2a/classstorm_1_1expressions_1_1_jani_reduce_nesting_expression_visitor.html" title=" " alt="" coords="514,1717,736,1778"/>
+<area shape="poly" id="edge251_Node000010_Node000011" title=" " alt="" coords="441,1440,468,1455,487,1476,498,1496,505,1519,516,1545,609,1716,604,1716,512,1548,500,1521,493,1498,483,1479,464,1459,442,1445"/>
+<area shape="rect" id="Node000013" href="$dc/d62/classstorm_1_1expressions_1_1_jani_expression_substitution_visitor.html" title=" " alt="" coords="524,989,726,1050"/>
+<area shape="poly" id="edge254_Node000014_Node000013" title=" " alt="" coords="431,638,468,660,503,698,532,741,557,787,577,833,606,921,621,989,616,988,601,922,572,835,552,789,528,744,498,702,464,664,433,643"/>
+<area shape="rect" id="Node000015" href="$d3/d6e/classstorm_1_1expressions_1_1_jani_syntactical_equality_check_visitor.html" title=" " alt="" coords="516,1473,734,1534"/>
+<area shape="poly" id="edge256_Node000016_Node000015" title=" " alt="" coords="454,1379,467,1385,534,1427,590,1472,585,1473,531,1431,465,1390,455,1384"/>
+<area shape="rect" id="Node000012" href="$d9/d76/classstorm_1_1expressions_1_1_jani_expression_visitor.html" title=" " alt="" coords="5,1803,172,1847"/>
+<area shape="poly" id="edge270_Node000012_Node000011" title=" " alt="" coords="101,1860,120,1903,144,1950,178,1995,198,2014,221,2029,286,2059,315,2067,343,2070,371,2067,400,2060,465,2029,497,2005,526,1976,549,1942,569,1906,598,1836,616,1781,619,1777,603,1837,574,1909,554,1945,530,1979,501,2009,467,2034,402,2065,372,2073,343,2075,314,2072,284,2064,218,2034,195,2018,174,1999,140,1953,115,1906,100,1865"/>
+<area shape="poly" id="edge269_Node000012_Node000013" title=" " alt="" coords="118,1857,164,1901,191,1920,221,1935,291,1961,351,1976,379,1977,407,1971,435,1957,464,1935,477,1920,487,1899,502,1847,508,1783,510,1712,507,1570,507,1508,511,1461,536,1341,564,1224,613,1053,616,1049,569,1225,541,1342,517,1461,513,1509,513,1570,515,1712,514,1783,507,1848,492,1901,482,1923,468,1939,438,1962,409,1976,380,1982,351,1981,289,1966,219,1939,188,1924,160,1905,117,1862"/>
+<area shape="poly" id="edge271_Node000012_Node000015" title=" " alt="" coords="108,1859,129,1891,154,1924,185,1955,221,1979,289,2008,320,2017,349,2022,377,2022,405,2015,434,2001,464,1979,492,1949,505,1920,510,1889,508,1857,500,1787,501,1747,511,1704,531,1656,555,1609,601,1537,604,1533,560,1612,536,1658,517,1706,507,1748,505,1786,513,1857,515,1890,510,1921,496,1952,468,1983,437,2005,407,2020,378,2027,348,2028,318,2023,287,2013,218,1983,181,1959,150,1928,125,1894,108,1864"/>
+<area shape="poly" id="edge272_Node000012_Node000017" title=" " alt="" coords="187,1823,239,1824,235,1826,188,1827"/>
+<area shape="poly" id="edge273_Node000012_Node000018" title=" " alt="" coords="186,1849,240,1865,235,1867,187,1854"/>
+<area shape="poly" id="edge274_Node000012_Node000019" title=" " alt="" coords="95,1787,109,1732,133,1666,169,1599,192,1568,218,1540,236,1529,233,1533,221,1544,196,1571,174,1602,138,1669,114,1734,100,1788"/>
+<area shape="poly" id="edge275_Node000012_Node000020" title=" " alt="" coords="102,1788,121,1750,147,1707,179,1663,218,1626,238,1614,235,1618,221,1630,183,1667,151,1709,126,1753,107,1790"/>
+<area shape="poly" id="edge276_Node000012_Node000021" title=" " alt="" coords="119,1790,164,1749,218,1711,244,1700,240,1704,221,1715,168,1753,123,1793"/>
+<area shape="poly" id="edge277_Node000012_Node000022" title=" " alt="" coords="185,1796,230,1785,226,1789,188,1801"/>
+</map>

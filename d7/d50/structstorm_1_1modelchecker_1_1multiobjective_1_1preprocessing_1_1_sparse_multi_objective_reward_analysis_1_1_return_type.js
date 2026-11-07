@@ -1,0 +1,7 @@
+var structstorm_1_1modelchecker_1_1multiobjective_1_1preprocessing_1_1_sparse_multi_objective_reward_analysis_1_1_return_type =
+[
+    [ "reward0AStates", "d7/d50/structstorm_1_1modelchecker_1_1multiobjective_1_1preprocessing_1_1_sparse_multi_objective_reward_analysis_1_1_return_type.html#aa6e75b8e3dcc1fe9ca1701a718e89a73", null ],
+    [ "rewardFinitenessType", "d7/d50/structstorm_1_1modelchecker_1_1multiobjective_1_1preprocessing_1_1_sparse_multi_objective_reward_analysis_1_1_return_type.html#ab6e0d0999018d27ab58cbe6a1a90b678", null ],
+    [ "totalReward0EStates", "d7/d50/structstorm_1_1modelchecker_1_1multiobjective_1_1preprocessing_1_1_sparse_multi_objective_reward_analysis_1_1_return_type.html#a041b99e52b6a827b7d13a6520784f7ba", null ],
+    [ "totalRewardLessInfinityEStates", "d7/d50/structstorm_1_1modelchecker_1_1multiobjective_1_1preprocessing_1_1_sparse_multi_objective_reward_analysis_1_1_return_type.html#a4fddd11f3fc5d3e5647dee09b70246ab", null ]
+];
