@@ -1,0 +1,7 @@
+var _belief_exploration_matrix_8h =
+[
+    [ "storm::pomdp::beliefs::BeliefExplorationTransition&lt; ValueType,... &gt;", "d3/d82/structstorm_1_1pomdp_1_1beliefs_1_1_belief_exploration_transition.html", "d3/d82/structstorm_1_1pomdp_1_1beliefs_1_1_belief_exploration_transition" ],
+    [ "storm::pomdp::beliefs::BeliefExplorationTransition&lt; ValueType, ExtraTransitionData &gt;", "d4/d6c/structstorm_1_1pomdp_1_1beliefs_1_1_belief_exploration_transition_3_01_value_type_00_01_extra_transition_data_01_4.html", "d4/d6c/structstorm_1_1pomdp_1_1beliefs_1_1_belief_exploration_transition_3_01_value_type_00_01_extra_transition_data_01_4" ],
+    [ "storm::pomdp::beliefs::BeliefExplorationTransition&lt; ValueType, FirstExtraTransitionData, OtherExtraTransitionData... &gt;", "dd/d70/structstorm_1_1pomdp_1_1beliefs_1_1_belief_exploration_transition_3_01_value_type_00_01_first_exb1cadd241666da07b33028491bfcd2fd.html", "dd/d70/structstorm_1_1pomdp_1_1beliefs_1_1_belief_exploration_transition_3_01_value_type_00_01_first_exb1cadd241666da07b33028491bfcd2fd" ],
+    [ "storm::pomdp::beliefs::BeliefExplorationMatrix&lt; ValueType, ExtraTransitionData &gt;", "d2/d3d/classstorm_1_1pomdp_1_1beliefs_1_1_belief_exploration_matrix.html", "d2/d3d/classstorm_1_1pomdp_1_1beliefs_1_1_belief_exploration_matrix" ]
+];

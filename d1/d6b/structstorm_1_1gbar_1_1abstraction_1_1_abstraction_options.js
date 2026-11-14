@@ -1,0 +1,25 @@
+var structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options =
+[
+    [ "AbstractionOptions", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a946dc951d8ee3fc643937238933d80b4", null ],
+    [ "AbstractionOptions", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#aa598e9179bf8d7dbfbed40507a7490ce", null ],
+    [ "addAllGuards", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#ac4dc174de9ba85fba00c67fcea628797", null ],
+    [ "addAllInitialExpressions", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a965a488dbd6d333e44134ae4fd2698aa", null ],
+    [ "constraints", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#abe04c4b9996804eee5d6381a47f61823", null ],
+    [ "debug", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a7c5dde59c798e2771a692661d2a19720", null ],
+    [ "fixPlayer1Strategy", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a75e49481d1e271c18ba4e777830510aa", null ],
+    [ "fixPlayer2Strategy", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a8a9d1eacf1014556238d4cde28add03a", null ],
+    [ "injectedRefinementPredicates", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a7d9fb6fdb5e3f6ea4462c963913d91e9", null ],
+    [ "maximalNumberOfAbstractions", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#ac9c82cd17640f43482eae518cbac6ec6", null ],
+    [ "pivotSelectionHeuristic", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#adbe7bb008c15f2b28f6381d324548bd4", null ],
+    [ "precision", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#aca547137cfb8c739e9043be63377897a", null ],
+    [ "rankRefinementPredicates", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#ab49f7f075661ab6f94b74fe2ccac28db", null ],
+    [ "relativeTerminationCriterion", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a1c23fc8c112ac2d36f2922692b8db914", null ],
+    [ "restrictToRelevantStates", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#ac7bb933cc1aad3ed2b0074d7b0f31a4a", null ],
+    [ "restrictToValidBlocks", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a3e17e5a926fd189ec210c7fbcb222d36", null ],
+    [ "reuseMode", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a666b1413154c22d835c9cc933e088f07", null ],
+    [ "solveMode", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a279505fc9f473e0ceae5efac650bc741", null ],
+    [ "splitMode", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#ab2c462b81f2997dfceff8db33bf7b8a0", null ],
+    [ "useDecomposition", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a15a6a22860f31f288154a2f13f374030", null ],
+    [ "useEagerRefinement", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a99c328f756d8926d4e9f70f1be6393e5", null ],
+    [ "useInterpolation", "d1/d6b/structstorm_1_1gbar_1_1abstraction_1_1_abstraction_options.html#a65ac826acfb36316a42399a785252757", null ]
+];
